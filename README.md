@@ -12,7 +12,7 @@
 
 - 📫 Reach me **mujta3asec@wearehackerone.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Profiles:</h3>
 <p align="left">
     <a href="https://hackerone.com/mujta3asec" target="blank">
         <img align="center"
