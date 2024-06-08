@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://hackerone.com/mujtabasec" target="blank">
+    <a href="https://hackerone.com/mujta3asec" target="blank">
         <img align="center"
             src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/hackerone.svg"
             height="30" width="40">
