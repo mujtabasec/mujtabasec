@@ -8,9 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mujtabasec&label=Profile%20views&color=0e75b6&style=flat"
         alt="mujtabasec" /> </p>
 
-- 📝 I regularly write articles on [https://mujtabasec.medium.com/](https://mujtabasec.medium.com/)
-
-- 📫 Reach me **syed2ahmadmujtaba@gmail.com**
+- 📝 I regularly write articles on [https://l1acker0x01.medium.com/](https://l1acker0x01.medium.com/)
 
 <h3 align="left">Profiles:</h3>
 <p align="left">
