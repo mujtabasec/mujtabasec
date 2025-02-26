@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Syed Ahmad Mujtaba</h1>
-<h3 align="center">Security Researcher | Bug Bounty Hunter on <a href="https://hackerone.com/mujta3a_"
+<h3 align="center">Security Researcher | Bug Bounty Hunter on <a href="https://hackerone.com/mujtabasec_"
         target="blank">HackerOne</a> and <a href="https://yeswehack.com/mujtabasec" target="blank">Yeswehack</a></h3>
 
 <img align="right" width="400"
@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mujtabasec&label=Profile%20views&color=0e75b6&style=flat"
         alt="mujtabasec" /> </p>
 
-- 📝 I regularly write articles on [https://l1acker0x01.medium.com/](https://l1acker0x01.medium.com/)
+- 📝 I regularly write articles on [https://mujtabasec.medium.com/](https://mujtabasec.medium.com/)
 
 <h3 align="left">Profiles:</h3>
 <p align="left">
@@ -20,7 +20,7 @@
     <a href="https://twitter.com/mujtabasec" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="mujtabasec" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/syed-ahmad-mujtaba-603814298" target="blank"><img align="center"
+    <a href="https://linkedin.com/in/mujtabasec" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="syed-ahmad-mujtaba-603814298" height="30" width="40" /></a>
     <a href="https://fb.com/mujtabasec" target="blank"><img align="center"
