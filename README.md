@@ -1,6 +1,5 @@
 <h1 align="center">Hi , I'm Syed Ahmad Mujtaba</h1>
-<h3 align="center">Security Researcher | Bug Bounty Hunter on <a href="https://hackerone.com/mujtabasec_"
-        target="blank">HackerOne</a> and <a href="https://yeswehack.com/mujtabasec" target="blank">Yeswehack</a></h3>
+<h3 align="center">Security Researcher | Bug Bounty Hunter | Penetration Tester</h3>
 
 <img align="right" width="400"
     src="https://media0.giphy.com/media/ieBWQkIVEELhbizGAp/giphy.gif?cid=6c09b952vg5rh73le59zc3yr3g6bvs9t2jazukxwwyfsojah&ep=v1_gifs_search&rid=giphy.gif&ct=g">
@@ -10,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://mujtabasec.medium.com/](https://mujtabasec.medium.com/)
 
-<h3 align="left">Profiles:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://hackerone.com/mujta3asec" target="blank">
         <img align="center"
